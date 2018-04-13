@@ -1,0 +1,5 @@
+[submodule "l10n_ar"]
+	path = l10n_ar
+	url = git@github.com:odoo-mastercore/l10n_ar.git
+	branch = develop
+
