@@ -3,6 +3,6 @@ cryptography==2.3.1
 httplib2==0.10.3
 asn1crypto==0.24.0
 suds-jurko
-py3afipws==0.6.5
+py3afipws==0.6.6
 py3simplesoap==0.1
 
