@@ -3,3 +3,8 @@
 	url = git@github.com:odoo-mastercore/l10n_ar.git
 	branch = develop
 
+
+[submodule "addons-OCA/website"]
+	path = addons-OCA/website
+	url = git@github.com:OCA/website.git
+	branch = 11.0
