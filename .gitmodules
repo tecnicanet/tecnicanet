@@ -3,3 +3,8 @@
 	url = git@github.com:odoo-mastercore/l10n_ar.git
 	branch = develop
 
+
+[submodule "nericervin/l10n_ar_sust"]
+	path = nericervin/l10n_ar_sust
+	url = git@github.com:nericervin/l10n_ar_sust.git
+	branch = main
